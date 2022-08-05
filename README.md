@@ -1,3 +1,3 @@
 # odin-recipes
 
-Training basci HTML
+Training basic HTML
